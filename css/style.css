@@ -1,0 +1,25 @@
+.buttons {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Btn {
+  width: 350px;
+  height: 100px;
+  margin: 50px;
+  border-radius: 10px;
+  border-color: #000000;
+  font-size: 60px;
+}
+
+.startBtn {
+  font-family: "Black Ops One", cursive;
+  background-color: green;
+}
+
+.stopBtn {
+  font-family: "Black Ops One", cursive;
+  background-color: red;
+}
